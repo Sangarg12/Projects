@@ -12,8 +12,6 @@ A comprehensive exploratory data analysis (EDA) project to identify key factors 
 - [Project Structure](#project-structure)
 - [Results & Recommendations](#results--recommendations)
 - [Financial Impact](#financial-impact)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Project Overview
 
@@ -177,11 +175,8 @@ customer-churn-analysis/
 - Revenue per customer
 
 
-
 ## 📞 Contact
 
-**Your Name** - garg.sandeep1996@gmail.com
+**Sandeep** - garg.sandeep1996@gmail.com
 
----
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
