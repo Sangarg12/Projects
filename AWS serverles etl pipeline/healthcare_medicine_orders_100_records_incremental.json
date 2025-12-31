@@ -1,0 +1,5840 @@
+[
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10101",
+      "order_date": "2025-03-29",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-602",
+      "name": "Patient-602",
+      "gender": "Female",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9101",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-29",
+      "discharge_date": "2025-04-01"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-311",
+      "name": "Dr. Doctor-31",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10102",
+      "order_date": "2025-03-23",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-603",
+      "name": "Patient-603",
+      "gender": "Female",
+      "date_of_birth": "1965-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9102",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-23",
+      "discharge_date": "2025-03-26"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-312",
+      "name": "Dr. Doctor-36",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10103",
+      "order_date": "2025-03-05",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-604",
+      "name": "Patient-604",
+      "gender": "Male",
+      "date_of_birth": "1972-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9103",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-05",
+      "discharge_date": "2025-03-08"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-306",
+      "name": "Dr. Doctor-40",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10104",
+      "order_date": "2025-03-13",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-605",
+      "name": "Patient-605",
+      "gender": "Female",
+      "date_of_birth": "1985-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9104",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-13",
+      "discharge_date": "2025-03-16"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-314",
+      "name": "Dr. Doctor-35",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10105",
+      "order_date": "2025-03-21",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-606",
+      "name": "Patient-606",
+      "gender": "Male",
+      "date_of_birth": "1977-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9105",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-21",
+      "discharge_date": "2025-03-24"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-31",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10106",
+      "order_date": "2025-03-23",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-607",
+      "name": "Patient-607",
+      "gender": "Male",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9106",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-23",
+      "discharge_date": "2025-03-26"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-311",
+      "name": "Dr. Doctor-38",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10107",
+      "order_date": "2025-03-16",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-608",
+      "name": "Patient-608",
+      "gender": "Male",
+      "date_of_birth": "2001-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9107",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-16",
+      "discharge_date": "2025-03-19"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-301",
+      "name": "Dr. Doctor-32",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10108",
+      "order_date": "2025-03-02",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-609",
+      "name": "Patient-609",
+      "gender": "Male",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9108",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-02",
+      "discharge_date": "2025-03-05"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-303",
+      "name": "Dr. Doctor-30",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10109",
+      "order_date": "2025-03-05",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-610",
+      "name": "Patient-610",
+      "gender": "Male",
+      "date_of_birth": "1974-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9109",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-05",
+      "discharge_date": "2025-03-08"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-32",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10110",
+      "order_date": "2025-03-26",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-611",
+      "name": "Patient-611",
+      "gender": "Male",
+      "date_of_birth": "1997-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9110",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-26",
+      "discharge_date": "2025-03-29"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-307",
+      "name": "Dr. Doctor-26",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10111",
+      "order_date": "2025-03-14",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-612",
+      "name": "Patient-612",
+      "gender": "Male",
+      "date_of_birth": "1976-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9111",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-14",
+      "discharge_date": "2025-03-17"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-319",
+      "name": "Dr. Doctor-28",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10112",
+      "order_date": "2025-03-31",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-613",
+      "name": "Patient-613",
+      "gender": "Male",
+      "date_of_birth": "1968-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9112",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-31",
+      "discharge_date": "2025-04-03"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-40",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-31",
+        "end_date": "2025-04-05"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-31",
+        "end_date": "2025-04-05"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-31",
+        "end_date": "2025-04-05"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10113",
+      "order_date": "2025-03-29",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-614",
+      "name": "Patient-614",
+      "gender": "Female",
+      "date_of_birth": "1995-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9113",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-29",
+      "discharge_date": "2025-04-01"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-26",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10114",
+      "order_date": "2025-03-19",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-615",
+      "name": "Patient-615",
+      "gender": "Female",
+      "date_of_birth": "1977-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9114",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-19",
+      "discharge_date": "2025-03-22"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-317",
+      "name": "Dr. Doctor-27",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10115",
+      "order_date": "2025-03-02",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-616",
+      "name": "Patient-616",
+      "gender": "Male",
+      "date_of_birth": "1987-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9115",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-02",
+      "discharge_date": "2025-03-05"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-38",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10116",
+      "order_date": "2025-03-26",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-617",
+      "name": "Patient-617",
+      "gender": "Female",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9116",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-26",
+      "discharge_date": "2025-03-29"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-310",
+      "name": "Dr. Doctor-38",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10117",
+      "order_date": "2025-03-06",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-618",
+      "name": "Patient-618",
+      "gender": "Male",
+      "date_of_birth": "1991-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9117",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-06",
+      "discharge_date": "2025-03-09"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-313",
+      "name": "Dr. Doctor-21",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10118",
+      "order_date": "2025-03-11",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-619",
+      "name": "Patient-619",
+      "gender": "Male",
+      "date_of_birth": "1975-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9118",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-11",
+      "discharge_date": "2025-03-14"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-40",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10119",
+      "order_date": "2025-03-27",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-620",
+      "name": "Patient-620",
+      "gender": "Female",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9119",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-27",
+      "discharge_date": "2025-03-30"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-22",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10120",
+      "order_date": "2025-03-30",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-621",
+      "name": "Patient-621",
+      "gender": "Female",
+      "date_of_birth": "1978-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9120",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-30",
+      "discharge_date": "2025-04-02"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-313",
+      "name": "Dr. Doctor-38",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10121",
+      "order_date": "2025-03-24",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-622",
+      "name": "Patient-622",
+      "gender": "Female",
+      "date_of_birth": "1997-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9121",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-24",
+      "discharge_date": "2025-03-27"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-308",
+      "name": "Dr. Doctor-32",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10122",
+      "order_date": "2025-03-31",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-623",
+      "name": "Patient-623",
+      "gender": "Female",
+      "date_of_birth": "1985-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9122",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-31",
+      "discharge_date": "2025-04-03"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-317",
+      "name": "Dr. Doctor-33",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-31",
+        "end_date": "2025-04-05"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10123",
+      "order_date": "2025-03-06",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-624",
+      "name": "Patient-624",
+      "gender": "Male",
+      "date_of_birth": "2000-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9123",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-06",
+      "discharge_date": "2025-03-09"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-318",
+      "name": "Dr. Doctor-34",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10124",
+      "order_date": "2025-03-09",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-625",
+      "name": "Patient-625",
+      "gender": "Male",
+      "date_of_birth": "1968-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9124",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-09",
+      "discharge_date": "2025-03-12"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-318",
+      "name": "Dr. Doctor-32",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-14"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-14"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-14"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-14"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10125",
+      "order_date": "2025-03-29",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-626",
+      "name": "Patient-626",
+      "gender": "Female",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9125",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-29",
+      "discharge_date": "2025-04-01"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-33",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10126",
+      "order_date": "2025-03-24",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-627",
+      "name": "Patient-627",
+      "gender": "Male",
+      "date_of_birth": "1991-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9126",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-24",
+      "discharge_date": "2025-03-27"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-301",
+      "name": "Dr. Doctor-36",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10127",
+      "order_date": "2025-03-30",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-628",
+      "name": "Patient-628",
+      "gender": "Female",
+      "date_of_birth": "2001-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9127",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-30",
+      "discharge_date": "2025-04-02"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-21",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10128",
+      "order_date": "2025-03-28",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-629",
+      "name": "Patient-629",
+      "gender": "Female",
+      "date_of_birth": "1994-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9128",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-28",
+      "discharge_date": "2025-03-31"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-31",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10129",
+      "order_date": "2025-03-16",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-630",
+      "name": "Patient-630",
+      "gender": "Female",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9129",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-16",
+      "discharge_date": "2025-03-19"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-315",
+      "name": "Dr. Doctor-38",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10130",
+      "order_date": "2025-03-15",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-631",
+      "name": "Patient-631",
+      "gender": "Male",
+      "date_of_birth": "1967-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9130",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-15",
+      "discharge_date": "2025-03-18"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-314",
+      "name": "Dr. Doctor-26",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10131",
+      "order_date": "2025-03-03",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-632",
+      "name": "Patient-632",
+      "gender": "Male",
+      "date_of_birth": "1988-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9131",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-35",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10132",
+      "order_date": "2025-03-16",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-633",
+      "name": "Patient-633",
+      "gender": "Female",
+      "date_of_birth": "1999-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9132",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-16",
+      "discharge_date": "2025-03-19"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-303",
+      "name": "Dr. Doctor-39",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10133",
+      "order_date": "2025-03-25",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-634",
+      "name": "Patient-634",
+      "gender": "Male",
+      "date_of_birth": "1968-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9133",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-25",
+      "discharge_date": "2025-03-28"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-301",
+      "name": "Dr. Doctor-29",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10134",
+      "order_date": "2025-03-27",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-635",
+      "name": "Patient-635",
+      "gender": "Female",
+      "date_of_birth": "1977-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9134",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-27",
+      "discharge_date": "2025-03-30"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-311",
+      "name": "Dr. Doctor-25",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10135",
+      "order_date": "2025-03-21",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-636",
+      "name": "Patient-636",
+      "gender": "Male",
+      "date_of_birth": "1965-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9135",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-21",
+      "discharge_date": "2025-03-24"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-27",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10136",
+      "order_date": "2025-03-21",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-637",
+      "name": "Patient-637",
+      "gender": "Female",
+      "date_of_birth": "1974-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9136",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-21",
+      "discharge_date": "2025-03-24"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-313",
+      "name": "Dr. Doctor-31",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10137",
+      "order_date": "2025-03-03",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-638",
+      "name": "Patient-638",
+      "gender": "Female",
+      "date_of_birth": "2001-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9137",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-308",
+      "name": "Dr. Doctor-25",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10138",
+      "order_date": "2025-03-14",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-639",
+      "name": "Patient-639",
+      "gender": "Male",
+      "date_of_birth": "1990-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9138",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-14",
+      "discharge_date": "2025-03-17"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-303",
+      "name": "Dr. Doctor-39",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10139",
+      "order_date": "2025-03-14",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-640",
+      "name": "Patient-640",
+      "gender": "Female",
+      "date_of_birth": "2000-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9139",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-14",
+      "discharge_date": "2025-03-17"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-318",
+      "name": "Dr. Doctor-39",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10140",
+      "order_date": "2025-03-19",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-641",
+      "name": "Patient-641",
+      "gender": "Female",
+      "date_of_birth": "1980-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9140",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-19",
+      "discharge_date": "2025-03-22"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-21",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10141",
+      "order_date": "2025-03-29",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-642",
+      "name": "Patient-642",
+      "gender": "Male",
+      "date_of_birth": "1989-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9141",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-29",
+      "discharge_date": "2025-04-01"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-310",
+      "name": "Dr. Doctor-35",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-03"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10142",
+      "order_date": "2025-03-12",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-643",
+      "name": "Patient-643",
+      "gender": "Male",
+      "date_of_birth": "2005-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9142",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-12",
+      "discharge_date": "2025-03-15"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-36",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10143",
+      "order_date": "2025-03-15",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-644",
+      "name": "Patient-644",
+      "gender": "Male",
+      "date_of_birth": "1975-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9143",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-15",
+      "discharge_date": "2025-03-18"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-35",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10144",
+      "order_date": "2025-03-15",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-645",
+      "name": "Patient-645",
+      "gender": "Male",
+      "date_of_birth": "1966-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9144",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-15",
+      "discharge_date": "2025-03-18"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-315",
+      "name": "Dr. Doctor-38",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10145",
+      "order_date": "2025-03-24",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-646",
+      "name": "Patient-646",
+      "gender": "Male",
+      "date_of_birth": "2000-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9145",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-24",
+      "discharge_date": "2025-03-27"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-315",
+      "name": "Dr. Doctor-38",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10146",
+      "order_date": "2025-03-05",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-647",
+      "name": "Patient-647",
+      "gender": "Male",
+      "date_of_birth": "1997-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9146",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-05",
+      "discharge_date": "2025-03-08"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-313",
+      "name": "Dr. Doctor-21",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10147",
+      "order_date": "2025-03-06",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-648",
+      "name": "Patient-648",
+      "gender": "Female",
+      "date_of_birth": "1973-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9147",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-06",
+      "discharge_date": "2025-03-09"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-24",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10148",
+      "order_date": "2025-03-01",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-649",
+      "name": "Patient-649",
+      "gender": "Female",
+      "date_of_birth": "1980-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9148",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-01",
+      "discharge_date": "2025-03-04"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-27",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10149",
+      "order_date": "2025-03-10",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-650",
+      "name": "Patient-650",
+      "gender": "Male",
+      "date_of_birth": "1972-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9149",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-10",
+      "discharge_date": "2025-03-13"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-27",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10150",
+      "order_date": "2025-03-15",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-651",
+      "name": "Patient-651",
+      "gender": "Male",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9150",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-15",
+      "discharge_date": "2025-03-18"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-301",
+      "name": "Dr. Doctor-30",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-20"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10151",
+      "order_date": "2025-03-03",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-652",
+      "name": "Patient-652",
+      "gender": "Female",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9151",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-307",
+      "name": "Dr. Doctor-35",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10152",
+      "order_date": "2025-03-26",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-653",
+      "name": "Patient-653",
+      "gender": "Female",
+      "date_of_birth": "1972-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9152",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-26",
+      "discharge_date": "2025-03-29"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-31",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10153",
+      "order_date": "2025-03-26",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-654",
+      "name": "Patient-654",
+      "gender": "Female",
+      "date_of_birth": "1967-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9153",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-26",
+      "discharge_date": "2025-03-29"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-312",
+      "name": "Dr. Doctor-24",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10154",
+      "order_date": "2025-03-02",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-655",
+      "name": "Patient-655",
+      "gender": "Male",
+      "date_of_birth": "1981-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9154",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-02",
+      "discharge_date": "2025-03-05"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-314",
+      "name": "Dr. Doctor-33",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10155",
+      "order_date": "2025-03-03",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-656",
+      "name": "Patient-656",
+      "gender": "Female",
+      "date_of_birth": "2005-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9155",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-26",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10156",
+      "order_date": "2025-03-09",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-657",
+      "name": "Patient-657",
+      "gender": "Male",
+      "date_of_birth": "1969-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9156",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-09",
+      "discharge_date": "2025-03-12"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-318",
+      "name": "Dr. Doctor-34",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-14"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-14"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10157",
+      "order_date": "2025-03-27",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-658",
+      "name": "Patient-658",
+      "gender": "Female",
+      "date_of_birth": "1966-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9157",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-27",
+      "discharge_date": "2025-03-30"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-308",
+      "name": "Dr. Doctor-37",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10158",
+      "order_date": "2025-03-08",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-659",
+      "name": "Patient-659",
+      "gender": "Female",
+      "date_of_birth": "1981-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9158",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-08",
+      "discharge_date": "2025-03-11"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-36",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10159",
+      "order_date": "2025-03-03",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-660",
+      "name": "Patient-660",
+      "gender": "Female",
+      "date_of_birth": "1972-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9159",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-312",
+      "name": "Dr. Doctor-26",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10160",
+      "order_date": "2025-03-28",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-661",
+      "name": "Patient-661",
+      "gender": "Female",
+      "date_of_birth": "1971-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9160",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-28",
+      "discharge_date": "2025-03-31"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-313",
+      "name": "Dr. Doctor-27",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10161",
+      "order_date": "2025-03-01",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-662",
+      "name": "Patient-662",
+      "gender": "Female",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9161",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-01",
+      "discharge_date": "2025-03-04"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-310",
+      "name": "Dr. Doctor-37",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10162",
+      "order_date": "2025-03-14",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-663",
+      "name": "Patient-663",
+      "gender": "Female",
+      "date_of_birth": "2002-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9162",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-14",
+      "discharge_date": "2025-03-17"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-317",
+      "name": "Dr. Doctor-27",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-19"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10163",
+      "order_date": "2025-03-22",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-664",
+      "name": "Patient-664",
+      "gender": "Male",
+      "date_of_birth": "1974-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9163",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-22",
+      "discharge_date": "2025-03-25"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-312",
+      "name": "Dr. Doctor-28",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-27"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-27"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-27"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-27"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10164",
+      "order_date": "2025-03-07",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-665",
+      "name": "Patient-665",
+      "gender": "Female",
+      "date_of_birth": "1995-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9164",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-07",
+      "discharge_date": "2025-03-10"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-308",
+      "name": "Dr. Doctor-39",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-12"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10165",
+      "order_date": "2025-03-19",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-666",
+      "name": "Patient-666",
+      "gender": "Female",
+      "date_of_birth": "1986-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9165",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-19",
+      "discharge_date": "2025-03-22"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-306",
+      "name": "Dr. Doctor-37",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-24"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10166",
+      "order_date": "2025-03-06",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-667",
+      "name": "Patient-667",
+      "gender": "Male",
+      "date_of_birth": "1979-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9166",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-06",
+      "discharge_date": "2025-03-09"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-32",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10167",
+      "order_date": "2025-03-13",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-668",
+      "name": "Patient-668",
+      "gender": "Female",
+      "date_of_birth": "2004-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9167",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-13",
+      "discharge_date": "2025-03-16"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-23",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10168",
+      "order_date": "2025-03-10",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-669",
+      "name": "Patient-669",
+      "gender": "Female",
+      "date_of_birth": "1980-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9168",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-10",
+      "discharge_date": "2025-03-13"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-306",
+      "name": "Dr. Doctor-21",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-15"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10169",
+      "order_date": "2025-03-08",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-670",
+      "name": "Patient-670",
+      "gender": "Male",
+      "date_of_birth": "1978-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9169",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-08",
+      "discharge_date": "2025-03-11"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-319",
+      "name": "Dr. Doctor-37",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10170",
+      "order_date": "2025-03-26",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-671",
+      "name": "Patient-671",
+      "gender": "Female",
+      "date_of_birth": "1974-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9170",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-26",
+      "discharge_date": "2025-03-29"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-31",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-31"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10171",
+      "order_date": "2025-03-05",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-672",
+      "name": "Patient-672",
+      "gender": "Male",
+      "date_of_birth": "1980-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9171",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-05",
+      "discharge_date": "2025-03-08"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-307",
+      "name": "Dr. Doctor-29",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-10"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10172",
+      "order_date": "2025-03-25",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-673",
+      "name": "Patient-673",
+      "gender": "Female",
+      "date_of_birth": "1978-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9172",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-25",
+      "discharge_date": "2025-03-28"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-305",
+      "name": "Dr. Doctor-22",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-30"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10173",
+      "order_date": "2025-03-12",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-674",
+      "name": "Patient-674",
+      "gender": "Male",
+      "date_of_birth": "1974-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9173",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-12",
+      "discharge_date": "2025-03-15"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-304",
+      "name": "Dr. Doctor-22",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10174",
+      "order_date": "2025-03-03",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-675",
+      "name": "Patient-675",
+      "gender": "Male",
+      "date_of_birth": "1967-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9174",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-318",
+      "name": "Dr. Doctor-31",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10175",
+      "order_date": "2025-03-27",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-676",
+      "name": "Patient-676",
+      "gender": "Male",
+      "date_of_birth": "1974-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9175",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-27",
+      "discharge_date": "2025-03-30"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-27",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10176",
+      "order_date": "2025-03-01",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-677",
+      "name": "Patient-677",
+      "gender": "Female",
+      "date_of_birth": "1986-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9176",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-01",
+      "discharge_date": "2025-03-04"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-315",
+      "name": "Dr. Doctor-33",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10177",
+      "order_date": "2025-03-23",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-678",
+      "name": "Patient-678",
+      "gender": "Male",
+      "date_of_birth": "1976-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9177",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-23",
+      "discharge_date": "2025-03-26"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-318",
+      "name": "Dr. Doctor-40",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-28"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10178",
+      "order_date": "2025-03-11",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-679",
+      "name": "Patient-679",
+      "gender": "Male",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9178",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-11",
+      "discharge_date": "2025-03-14"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-320",
+      "name": "Dr. Doctor-39",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10179",
+      "order_date": "2025-03-27",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-680",
+      "name": "Patient-680",
+      "gender": "Male",
+      "date_of_birth": "1982-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9179",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-27",
+      "discharge_date": "2025-03-30"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-312",
+      "name": "Dr. Doctor-32",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-27",
+        "end_date": "2025-04-01"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10180",
+      "order_date": "2025-03-13",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-681",
+      "name": "Patient-681",
+      "gender": "Female",
+      "date_of_birth": "2005-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9180",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-13",
+      "discharge_date": "2025-03-16"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-317",
+      "name": "Dr. Doctor-22",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10181",
+      "order_date": "2025-03-21",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-682",
+      "name": "Patient-682",
+      "gender": "Male",
+      "date_of_birth": "1965-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9181",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-21",
+      "discharge_date": "2025-03-24"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-314",
+      "name": "Dr. Doctor-28",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10182",
+      "order_date": "2025-03-04",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-683",
+      "name": "Patient-683",
+      "gender": "Female",
+      "date_of_birth": "1994-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9182",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-04",
+      "discharge_date": "2025-03-07"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-309",
+      "name": "Dr. Doctor-29",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-04",
+        "end_date": "2025-03-09"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10183",
+      "order_date": "2025-03-21",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-684",
+      "name": "Patient-684",
+      "gender": "Female",
+      "date_of_birth": "1994-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9183",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-21",
+      "discharge_date": "2025-03-24"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-303",
+      "name": "Dr. Doctor-33",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-26"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10184",
+      "order_date": "2025-03-24",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-685",
+      "name": "Patient-685",
+      "gender": "Female",
+      "date_of_birth": "1985-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9184",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-24",
+      "discharge_date": "2025-03-27"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-314",
+      "name": "Dr. Doctor-26",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-29"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10185",
+      "order_date": "2025-03-01",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-686",
+      "name": "Patient-686",
+      "gender": "Male",
+      "date_of_birth": "2005-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9185",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-01",
+      "discharge_date": "2025-03-04"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-301",
+      "name": "Dr. Doctor-39",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-06"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10186",
+      "order_date": "2025-03-28",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-687",
+      "name": "Patient-687",
+      "gender": "Male",
+      "date_of_birth": "1970-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9186",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-28",
+      "discharge_date": "2025-03-31"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-310",
+      "name": "Dr. Doctor-22",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-28",
+        "end_date": "2025-04-02"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10187",
+      "order_date": "2025-03-12",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-688",
+      "name": "Patient-688",
+      "gender": "Female",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9187",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-12",
+      "discharge_date": "2025-03-15"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-316",
+      "name": "Dr. Doctor-39",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10188",
+      "order_date": "2025-03-11",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-689",
+      "name": "Patient-689",
+      "gender": "Female",
+      "date_of_birth": "1984-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9188",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-11",
+      "discharge_date": "2025-03-14"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-306",
+      "name": "Dr. Doctor-35",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10189",
+      "order_date": "2025-03-12",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-690",
+      "name": "Patient-690",
+      "gender": "Male",
+      "date_of_birth": "1968-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9189",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-12",
+      "discharge_date": "2025-03-15"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-311",
+      "name": "Dr. Doctor-39",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-17"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10190",
+      "order_date": "2025-03-02",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-691",
+      "name": "Patient-691",
+      "gender": "Male",
+      "date_of_birth": "1968-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9190",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-02",
+      "discharge_date": "2025-03-05"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-313",
+      "name": "Dr. Doctor-28",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10191",
+      "order_date": "2025-03-20",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-692",
+      "name": "Patient-692",
+      "gender": "Male",
+      "date_of_birth": "1993-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9191",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-20",
+      "discharge_date": "2025-03-23"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-309",
+      "name": "Dr. Doctor-35",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-20",
+        "end_date": "2025-03-25"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10192",
+      "order_date": "2025-03-08",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-693",
+      "name": "Patient-693",
+      "gender": "Female",
+      "date_of_birth": "1991-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9192",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-08",
+      "discharge_date": "2025-03-11"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-306",
+      "name": "Dr. Doctor-26",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10193",
+      "order_date": "2025-03-13",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-694",
+      "name": "Patient-694",
+      "gender": "Male",
+      "date_of_birth": "1973-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9193",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-13",
+      "discharge_date": "2025-03-16"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-317",
+      "name": "Dr. Doctor-34",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-18"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10194",
+      "order_date": "2025-03-06",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-695",
+      "name": "Patient-695",
+      "gender": "Female",
+      "date_of_birth": "1976-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9194",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-06",
+      "discharge_date": "2025-03-09"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-320",
+      "name": "Dr. Doctor-26",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-11"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10195",
+      "order_date": "2025-03-16",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-696",
+      "name": "Patient-696",
+      "gender": "Female",
+      "date_of_birth": "1983-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9195",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-16",
+      "discharge_date": "2025-03-19"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-307",
+      "name": "Dr. Doctor-34",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      },
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-21"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10196",
+      "order_date": "2025-03-08",
+      "order_status": "Completed",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-697",
+      "name": "Patient-697",
+      "gender": "Male",
+      "date_of_birth": "2002-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9196",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-08",
+      "discharge_date": "2025-03-11"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-301",
+      "name": "Dr. Doctor-33",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-13"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10197",
+      "order_date": "2025-03-02",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-698",
+      "name": "Patient-698",
+      "gender": "Female",
+      "date_of_birth": "1973-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9197",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-02",
+      "discharge_date": "2025-03-05"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-315",
+      "name": "Dr. Doctor-28",
+      "department": "Cardiology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "50 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-07"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10198",
+      "order_date": "2025-03-30",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-699",
+      "name": "Patient-699",
+      "gender": "Female",
+      "date_of_birth": "1997-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9198",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-30",
+      "discharge_date": "2025-04-02"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-302",
+      "name": "Dr. Doctor-40",
+      "department": "Neurology"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-102",
+        "medicine_name": "Atorvastatin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "50 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-104",
+        "medicine_name": "Amoxicillin",
+        "dosage": "75 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-30",
+        "end_date": "2025-04-04"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10199",
+      "order_date": "2025-03-03",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Urgent"
+    },
+    "patient": {
+      "patient_id": "P-700",
+      "name": "Patient-700",
+      "gender": "Male",
+      "date_of_birth": "2000-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9199",
+      "encounter_type": "Outpatient",
+      "admission_date": "2025-03-03",
+      "discharge_date": "2025-03-06"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-315",
+      "name": "Dr. Doctor-33",
+      "department": "General Medicine"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-105",
+        "medicine_name": "Losartan",
+        "dosage": "100 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      },
+      {
+        "medicine_id": "M-103",
+        "medicine_name": "Metformin",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-08"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  },
+  {
+    "order_details": {
+      "medicine_order_id": "ORD-10200",
+      "order_date": "2025-03-11",
+      "order_status": "Active",
+      "order_type": "Medication",
+      "priority": "Routine"
+    },
+    "patient": {
+      "patient_id": "P-701",
+      "name": "Patient-701",
+      "gender": "Male",
+      "date_of_birth": "1983-01-01"
+    },
+    "encounter": {
+      "encounter_id": "E-9200",
+      "encounter_type": "Inpatient",
+      "admission_date": "2025-03-11",
+      "discharge_date": "2025-03-14"
+    },
+    "prescribing_doctor": {
+      "doctor_id": "D-312",
+      "name": "Dr. Doctor-38",
+      "department": "Orthopedics"
+    },
+    "medicines": [
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "25 mg",
+        "frequency": "Twice daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-106",
+        "medicine_name": "Paracetamol",
+        "dosage": "100 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      },
+      {
+        "medicine_id": "M-101",
+        "medicine_name": "Aspirin",
+        "dosage": "75 mg",
+        "frequency": "Once daily",
+        "route": "Oral",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-16"
+      }
+    ],
+    "hospital": {
+      "hospital_id": "H-01",
+      "hospital_name": "City Care Hospital",
+      "location": "Bangalore"
+    }
+  }
+]
