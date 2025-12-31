@@ -233,19 +233,4 @@ df.to_parquet('test_output.parquet')
 - Check QuickSight region matches Athena region
 - Test Athena query directly before using in QuickSight
 
-## License 📜
 
-This project is licensed under the MIT License - see LICENSE file for details
-
-## Support 💬
-
-For issues, questions, or suggestions:
-- Open a GitHub Issue
-- Check existing issues for similar problems
-- Include error logs and AWS service outputs when reporting bugs
-
----
-
-**Last Updated:** December 2025  
-**Maintained By:** Analytics Team  
-**Status:** Active ✅
